@@ -7,7 +7,7 @@ package Login;
 
 /**
  *
- * @author Rj
+ * @author enfaith1
  */
 
 public class welcome extends javax.swing.JFrame {

@@ -6,7 +6,7 @@ package Login;
 
 /**
  *
- * @author Students Account
+ * @author enfaith1
  */
 // IMPORTS
 import java.io.FileNotFoundException;
