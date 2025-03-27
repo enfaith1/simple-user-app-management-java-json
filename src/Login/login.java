@@ -5,6 +5,11 @@
  */
 package Login;
 
+/**
+ *
+ * @author enfaith1
+ */
+
 // IMPORTS
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -17,10 +22,6 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-/**
- *
- * @author Rj
- */
 public class login extends javax.swing.JFrame {
 
     /**

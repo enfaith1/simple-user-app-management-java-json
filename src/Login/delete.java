@@ -4,6 +4,11 @@
  */
 package Login;
 
+/**
+ *
+ * @author enfaith1
+ */
+
 // IMPORTS
 import java.io.FileNotFoundException;
 import java.io.FileReader;
