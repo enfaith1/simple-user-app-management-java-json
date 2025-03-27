@@ -105,8 +105,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Author
 
-Developed by **Natt**.
-```
-
-This `README.md` provides an overview of the project, its structure, features, and instructions for running it. Let me know if you need further modifications!
-This `README.md` provides an overview of the project, its structure, features, and instructions for running it. Let me know if you need further modifications!
+Developed by **enfaith1**.
