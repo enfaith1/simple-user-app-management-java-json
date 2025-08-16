@@ -99,10 +99,6 @@ The `user.json` file stores user data in the following format:
 - Modify the `user.json` file path in the `add`, `update`, and `delete` classes if needed.
 - Update GUI components using the NetBeans Form Editor.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Author
 
 Developed by **enfaith1**.
